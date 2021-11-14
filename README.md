@@ -3,7 +3,7 @@ I develop and maintain:
 * Packages that simplify the implementation of combinatorial optimization algorithms based on the following methods:
   * Local Search [fontanf/localsearchsolver](https://github.com/fontanf/localsearchsolver)
   * Heuristic Tree Search [fontanf/treesearchsolver](https://github.com/fontanf/treesearchsolver) (C++) [fontanf/treesearchsolverpy](https://github.com/fontanf/treesearchsolverpy) (Python3)
-  * Column Generation Heuristics [fontanf/columngenerationsolver](https://github.com/fontanf/columngenerationsolver)
+  * Column Generation Heuristics [fontanf/columngenerationsolver](https://github.com/fontanf/columngenerationsolver) (C++) [fontanf/columngenerationsolverpy](https://github.com/fontanf/columngenerationsolverpy) (Python3)
 
 * Solvers for various fundamental Operations Research problems:
   * 0-1 Knapsack Problem [fontanf/knapsacksolver](https://github.com/fontanf/knapsacksolver)
