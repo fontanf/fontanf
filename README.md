@@ -19,3 +19,5 @@ I develop and maintain:
 * A repository containing various tools used by my other repositories  [fontanf/optimizationtools](https://github.com/fontanf/optimizationtools)
 
 Finally, the repository [fontanf/teaching](https://github.com/fontanf/teaching) contains the material I use to teach.
+
+*Do not hesitate to let me know if you use some of my codes. I'm happy to know that they are useful. And I'll be more careful not to break everything in the next update. And do not hesitate to give me some feedback as well.*
