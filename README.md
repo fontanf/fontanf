@@ -11,7 +11,7 @@ I develop and maintain:
   * (Unicost) Set Covering Problem [fontanf/setcoveringsolver](https://github.com/fontanf/setcoveringsolver)
   * Maximum(-Weight) Independent Set and Maximum-(Weight) Clique Problems [fontanf/stablesolver](https://github.com/fontanf/stablesolver)
   * Graph Coloring Problem  [fontanf/coloringsolver](https://github.com/fontanf/coloringsolver)
-  * Traveling salesman Problem  [fontanf/travelingsalesmansolver](https://github.com/fontanf/travelingsalesmansolver)
+  * Traveling Salesman Problem  [fontanf/travelingsalesmansolver](https://github.com/fontanf/travelingsalesmansolver)
 
 * A solver dedicated to geometrical Packing Problems based on Tree Search and Column Generation  [fontanf/packingsolver](https://github.com/fontanf/packingsolver)
 
