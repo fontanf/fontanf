@@ -1,5 +1,7 @@
 I develop and maintain:
 
+* A solver dedicated to geometrical packing problems [fontanf/packingsolver](https://github.com/fontanf/packingsolver)
+
 * Packages that simplify the implementation of combinatorial optimization algorithms based on the following methods:
   * Local search [fontanf/localsearchsolver](https://github.com/fontanf/localsearchsolver) (C++) [fontanf/localsearchsolverpy](https://github.com/fontanf/localsearchsolverpy) (Python3)
   * Heuristic tree search [fontanf/treesearchsolver](https://github.com/fontanf/treesearchsolver) (C++) [fontanf/treesearchsolverpy](https://github.com/fontanf/treesearchsolverpy) (Python3)
@@ -12,8 +14,6 @@ I develop and maintain:
   * Maximum(-weight) independent set and maximum-(weight) clique problems [fontanf/stablesolver](https://github.com/fontanf/stablesolver)
   * Graph coloring problem  [fontanf/coloringsolver](https://github.com/fontanf/coloringsolver)
   * Traveling salesman problem  [fontanf/travelingsalesmansolver](https://github.com/fontanf/travelingsalesmansolver)
-
-* A solver dedicated to geometrical packing problems [fontanf/packingsolver](https://github.com/fontanf/packingsolver)
 
 * A repository containing data, instance parsers and solution checkers for various operations research problems  [fontanf/orproblems](https://github.com/fontanf/orproblems). These problems are used in the examples of the packages mentioned above.
 
