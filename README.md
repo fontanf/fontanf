@@ -17,6 +17,9 @@ I develop and maintain:
   * Maximum(-weight) independent set and maximum-(weight) clique problems [fontanf/stablesolver](https://github.com/fontanf/stablesolver)
   * Graph coloring problem  [fontanf/coloringsolver](https://github.com/fontanf/coloringsolver)
   * Traveling salesman problem  [fontanf/travelingsalesmansolver](https://github.com/fontanf/travelingsalesmansolver)
+<p align="center">
+<img src="https://github.com/fontanf/knapsacksolver/blob/master/knapsack.png" height="175"> <img src="https://github.com/fontanf/stablesolver/blob/master/stable.png" height="175"> <img src="https://github.com/fontanf/coloringsolver/blob/master/img/graphcoloring.png" height="175"> <img src="https://github.com/fontanf/travelingsalesmansolver/blob/main/img/travelingsalesman.png" height="175">
+</p>
 
 * A repository containing data, instance parsers and solution checkers for various operations research problems  [fontanf/orproblems](https://github.com/fontanf/orproblems). These problems are used in the examples of the packages mentioned above.
 
