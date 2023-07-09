@@ -1,6 +1,9 @@
 I develop and maintain:
 
 * A solver dedicated to geometrical packing problems [fontanf/packingsolver](https://github.com/fontanf/packingsolver)
+<p align="center">
+<img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangleguillotine.png" width="300"> <img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangle.png" width="300"> <img src="https://github.com/fontanf/packingsolver/blob/master/img/boxstacks.png" width="300">
+</p>
 
 * Packages that simplify the implementation of combinatorial optimization algorithms based on the following methods:
   * Local search [fontanf/localsearchsolver](https://github.com/fontanf/localsearchsolver) (C++) [fontanf/localsearchsolverpy](https://github.com/fontanf/localsearchsolverpy) (Python3)
