@@ -9,6 +9,9 @@ I develop and maintain:
   * Local search [fontanf/localsearchsolver](https://github.com/fontanf/localsearchsolver) (C++) [fontanf/localsearchsolverpy](https://github.com/fontanf/localsearchsolverpy) (Python3)
   * Heuristic tree search [fontanf/treesearchsolver](https://github.com/fontanf/treesearchsolver) (C++) [fontanf/treesearchsolverpy](https://github.com/fontanf/treesearchsolverpy) (Python3)
   * Column generation heuristics [fontanf/columngenerationsolver](https://github.com/fontanf/columngenerationsolver) (C++) [fontanf/columngenerationsolverpy](https://github.com/fontanf/columngenerationsolverpy) (Python3)
+<p align="center">
+<img src="https://github.com/fontanf/localsearchsolver/blob/master/img/localsearch.jpg" height="175"> <img src="https://github.com/fontanf/treesearchsolver/blob/main/img/treesearch.jpg" height="175"> <img src="https://github.com/fontanf/columngenerationsolver/blob/main/img/columngeneration.jpg" height="175">
+</p>
 
 * Solvers for various fundamental operations research problems:
   * 0-1 knapsack problem, subset-sum problem, multiple-choice subset-sum problem [fontanf/knapsacksolver](https://github.com/fontanf/knapsacksolver)
