@@ -2,10 +2,19 @@ I develop and maintain:
 
 * A solver dedicated to geometrical packing problems [fontanf/packingsolver](https://github.com/fontanf/packingsolver)
 <p align="center">
-<img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangleguillotine.png" width="256"> <img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangle.png" width="256">
+<img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangleguillotine.png" width="256">
+<img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangle.png" width="256">
 </p>
 <p align="center">
-<img src="https://github.com/fontanf/packingsolver/blob/master/img/boxstacks.png" align=center width="256"> <img src="https://github.com/fontanf/packingsolver/blob/master/img/onedimensional.png" align=center width="256">
+<img src="https://github.com/fontanf/packingsolver/blob/master/img/boxstacks.png" align=center width="256">
+<img src="https://github.com/fontanf/packingsolver/blob/master/img/onedimensional.png" align=center width="256">
+</p>
+
+* A solver for some timetabling problems [fontanf/timetablingsolver](https://github.com/fontanf/timetablingsolver)
+<p align="center">
+<img src="https://github.com/fontanf/timetablingsolver/blob/main/img/input.png" align=center height="128"> &nbsp;
+<img src="https://github.com/fontanf/timetablingsolver/blob/main/img/plot.png" align=center height="128"> &nbsp;
+<img src="https://github.com/fontanf/timetablingsolver/blob/main/img/output.png" align=center height="128">
 </p>
 
 * Packages that simplify the implementation of combinatorial optimization algorithms based on the following methods:
@@ -13,7 +22,9 @@ I develop and maintain:
   * Heuristic tree search [fontanf/treesearchsolver](https://github.com/fontanf/treesearchsolver) (C++) [fontanf/treesearchsolverpy](https://github.com/fontanf/treesearchsolverpy) (Python3)
   * Column generation heuristics [fontanf/columngenerationsolver](https://github.com/fontanf/columngenerationsolver) (C++) [fontanf/columngenerationsolverpy](https://github.com/fontanf/columngenerationsolverpy) (Python3)
 <p align="center">
-<img src="https://github.com/fontanf/localsearchsolver/blob/master/img/localsearch.jpg" height="150"> &nbsp; <img src="https://github.com/fontanf/treesearchsolver/blob/main/img/treesearch.jpg" height="150"> &nbsp; <img src="https://github.com/fontanf/columngenerationsolver/blob/main/img/columngeneration.jpg" height="150">
+<img src="https://github.com/fontanf/localsearchsolver/blob/master/img/localsearch.jpg" height="150"> &nbsp;
+<img src="https://github.com/fontanf/treesearchsolver/blob/main/img/treesearch.jpg" height="150"> &nbsp;
+<img src="https://github.com/fontanf/columngenerationsolver/blob/main/img/columngeneration.jpg" height="150">
 </p>
 
 * Solvers for various fundamental operations research problems:
