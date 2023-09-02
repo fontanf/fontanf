@@ -2,11 +2,11 @@ I develop and maintain:
 
 * A solver dedicated to geometrical packing problems [fontanf/packingsolver](https://github.com/fontanf/packingsolver)
 <p align="center">
-<img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangleguillotine.png" width="256">
+<img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangleguillotine.png" width="256"> &nbsp;
 <img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangle.png" width="256">
 </p>
 <p align="center">
-<img src="https://github.com/fontanf/packingsolver/blob/master/img/boxstacks.png" align=center width="256">
+<img src="https://github.com/fontanf/packingsolver/blob/master/img/boxstacks.png" align=center width="256"> &nbsp;
 <img src="https://github.com/fontanf/packingsolver/blob/master/img/onedimensional.png" align=center width="256">
 </p>
 
