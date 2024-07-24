@@ -11,13 +11,6 @@ I develop and maintain:
 <img src="https://github.com/fontanf/packingsolver/blob/master/img/irregular.png" align=center width="196">
 </p>
 
-* A solver for some timetabling problems [fontanf/timetablingsolver](https://github.com/fontanf/timetablingsolver)
-<p align="center">
-<img src="https://github.com/fontanf/timetablingsolver/blob/main/img/input.png" align=center height="128"> &nbsp;
-<img src="https://github.com/fontanf/timetablingsolver/blob/main/img/plot.png" align=center height="128"> &nbsp;
-<img src="https://github.com/fontanf/timetablingsolver/blob/main/img/output.png" align=center height="128">
-</p>
-
 * Packages that simplify the implementation of combinatorial optimization algorithms based on the following methods:
   * Local search [fontanf/localsearchsolver](https://github.com/fontanf/localsearchsolver) (C++) [fontanf/localsearchsolverpy](https://github.com/fontanf/localsearchsolverpy) (Python3)
   * Heuristic tree search [fontanf/treesearchsolver](https://github.com/fontanf/treesearchsolver) (C++) [fontanf/treesearchsolverpy](https://github.com/fontanf/treesearchsolverpy) (Python3)
