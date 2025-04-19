@@ -4,11 +4,12 @@ I develop and maintain:
 <p align="center">
 <img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangleguillotine.png" align=center width="196"> &nbsp;
 <img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangle.png" align=center width="196">
+<img src="https://github.com/fontanf/packingsolver/blob/master/img/irregular.png" align=center width="196">
 </p>
 <p align="center">
+<img src="https://github.com/fontanf/packingsolver/blob/master/img/box.png" align=center width="196"> &nbsp;
 <img src="https://github.com/fontanf/packingsolver/blob/master/img/boxstacks.png" align=center width="196"> &nbsp;
 <img src="https://github.com/fontanf/packingsolver/blob/master/img/onedimensional.png" align=center width="196"> &nbsp;
-<img src="https://github.com/fontanf/packingsolver/blob/master/img/irregular.png" align=center width="196">
 </p>
 
 * Packages that simplify the implementation of combinatorial optimization algorithms based on the following methods:
