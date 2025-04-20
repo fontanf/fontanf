@@ -3,7 +3,7 @@ I develop and maintain:
 * A solver dedicated to geometrical packing problems [fontanf/packingsolver](https://github.com/fontanf/packingsolver)
 <p align="center">
 <img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangleguillotine.png" align=center width="196"> &nbsp;
-<img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangle.png" align=center width="196">
+<img src="https://github.com/fontanf/packingsolver/blob/master/img/rectangle.png" align=center width="196"> &nbsp;
 <img src="https://github.com/fontanf/packingsolver/blob/master/img/irregular.png" align=center width="196">
 </p>
 <p align="center">
