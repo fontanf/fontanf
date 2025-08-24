@@ -22,7 +22,11 @@ I develop and maintain:
 <img src="https://github.com/fontanf/columngenerationsolver/blob/main/img/columngeneration.jpg" height="150">
 </p>
 
-* Solvers for various fundamental operations research problems:
+* Other libraries to simplify the implementation of optimizaztion algorithms:
+  * Various data structures [fontanf/optimizationtools](https://github.com/fontanf/optimizationtools)
+  * Simplify solvers integration with CMake + a simple MILP modeler [fontanf/mathoptsolverscmake](https://github.com/fontanf/mathoptsolverscmake)
+
+* Solvers for various fundamental optimization problems that often appear as subproblems of more complex optimization problems:
   * 0-1 knapsack problem, subset-sum problem, multiple-choice subset-sum problem [fontanf/knapsacksolver](https://github.com/fontanf/knapsacksolver)
   * Generalized assignment problem [fontanf/generalizedassignmentsolver](https://github.com/fontanf/generalizedassignmentsolver)
   * (Unicost) set covering problem [fontanf/setcoveringsolver](https://github.com/fontanf/setcoveringsolver)
@@ -33,13 +37,10 @@ I develop and maintain:
 <img src="https://github.com/fontanf/knapsacksolver/blob/master/knapsack.png" height="175"> <img src="https://github.com/fontanf/stablesolver/blob/master/stable.png" height="175"> <img src="https://github.com/fontanf/coloringsolver/blob/master/img/graphcoloring.png" height="175"> <img src="https://github.com/fontanf/travelingsalesmansolver/blob/main/img/travelingsalesman.png" height="175">
 </p>
 
-* Solvers for some other operations research problems:
+* Some research codes:
   * Star observation scheduling problems [fontanf/starobservationschedulingsolver](https://github.com/fontanf/starobservationschedulingsolver)
   * Travelling thief problems [fontanf/travellingthiefsolver](https://github.com/fontanf/travellingthiefsolver)
-
-* A repository containing data, instance parsers and solution checkers for various operations research problems  [fontanf/orproblems](https://github.com/fontanf/orproblems). These problems are used in the examples of the packages mentioned above.
-
-* A repository containing various tools used by my other repositories  [fontanf/optimizationtools](https://github.com/fontanf/optimizationtools)
+  * Flow shop, job shop and open shop scheduling problems [fontanf/shopschedulingsolver](https://github.com/fontanf/shopschedulingsolver)
 
 Finally, the repository [fontanf/teaching](https://github.com/fontanf/teaching) contains the material I use to teach.
 
