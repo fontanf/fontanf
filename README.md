@@ -25,6 +25,8 @@ I develop and maintain:
 * Other libraries to simplify the implementation of optimizaztion algorithms:
   * Various data structures [fontanf/optimizationtools](https://github.com/fontanf/optimizationtools)
   * Simplify solvers integration with CMake + a simple MILP modeler [fontanf/mathoptsolverscmake](https://github.com/fontanf/mathoptsolverscmake)
+  * A C++ interface for the nonlinear solver Artelys Knitro [fontanf/knitrocpp](https://github.com/fontanf/knitrocpp)
+  * A geometry library that supports line segments and circular arcs [fontanf/shape](https://github.com/fontanf/shape)
 
 * Solvers for various fundamental optimization problems that often appear as subproblems of more complex optimization problems:
   * 0-1 knapsack problem, subset-sum problem, multiple-choice subset-sum problem [fontanf/knapsacksolver](https://github.com/fontanf/knapsacksolver)
@@ -41,6 +43,7 @@ I develop and maintain:
   * Star observation scheduling problems [fontanf/starobservationschedulingsolver](https://github.com/fontanf/starobservationschedulingsolver)
   * Travelling thief problems [fontanf/travellingthiefsolver](https://github.com/fontanf/travellingthiefsolver)
   * Flow shop, job shop and open shop scheduling problems [fontanf/shopschedulingsolver](https://github.com/fontanf/shopschedulingsolver)
+  * Knapsack problem with conflicts [fontanf/knapsackwithconflictssolver](https://github.com/fontanf/knapsackwithconflictssolver)
 
 Finally, the repository [fontanf/teaching](https://github.com/fontanf/teaching) contains the material I use to teach.
 
