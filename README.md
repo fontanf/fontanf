@@ -29,7 +29,9 @@ I develop and maintain:
   * A geometry library that supports line segments and circular arcs [fontanf/shape](https://github.com/fontanf/shape)
 
 * Solvers for various fundamental optimization problems that often appear as subproblems of more complex optimization problems:
-  * 0-1 knapsack problem, subset-sum problem, multiple-choice subset-sum problem [fontanf/knapsacksolver](https://github.com/fontanf/knapsacksolver)
+  * 0-1 knapsack problem [fontanf/knapsacksolver](https://github.com/fontanf/knapsacksolver)
+  * Subset-sum problem [fontanf/subsetsumsolver](https://github.com/fontanf/subsetsumsolver)
+  * Multiple-choice subset-sum problem [fontanf/multiplechoicesubsetsumsolver](https://github.com/fontanf/multiplechoicesubsetsumsolver)
   * Generalized assignment problem [fontanf/generalizedassignmentsolver](https://github.com/fontanf/generalizedassignmentsolver)
   * (Unicost) set covering problem [fontanf/setcoveringsolver](https://github.com/fontanf/setcoveringsolver)
   * Maximum(-weight) independent set and maximum-(weight) clique problems [fontanf/stablesolver](https://github.com/fontanf/stablesolver)
