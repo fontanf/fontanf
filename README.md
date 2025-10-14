@@ -16,11 +16,6 @@ I develop and maintain:
   * Local search [fontanf/localsearchsolver](https://github.com/fontanf/localsearchsolver) (C++) [fontanf/localsearchsolverpy](https://github.com/fontanf/localsearchsolverpy) (Python3)
   * Heuristic tree search [fontanf/treesearchsolver](https://github.com/fontanf/treesearchsolver) (C++) [fontanf/treesearchsolverpy](https://github.com/fontanf/treesearchsolverpy) (Python3)
   * Column generation heuristics [fontanf/columngenerationsolver](https://github.com/fontanf/columngenerationsolver) (C++) [fontanf/columngenerationsolverpy](https://github.com/fontanf/columngenerationsolverpy) (Python3)
-<p align="center">
-<img src="https://github.com/fontanf/localsearchsolver/blob/master/img/localsearch.jpg" height="150"> &nbsp;
-<img src="https://github.com/fontanf/treesearchsolver/blob/main/img/treesearch.jpg" height="150"> &nbsp;
-<img src="https://github.com/fontanf/columngenerationsolver/blob/main/img/columngeneration.jpg" height="150">
-</p>
 
 * Other libraries to simplify the implementation of optimizaztion algorithms:
   * Various data structures [fontanf/optimizationtools](https://github.com/fontanf/optimizationtools)
@@ -37,9 +32,6 @@ I develop and maintain:
   * Maximum(-weight) independent set and maximum-(weight) clique problems [fontanf/stablesolver](https://github.com/fontanf/stablesolver)
   * Graph coloring problem  [fontanf/coloringsolver](https://github.com/fontanf/coloringsolver)
   * Traveling salesman problem  [fontanf/travelingsalesmansolver](https://github.com/fontanf/travelingsalesmansolver)
-<p align="center">
-<img src="https://github.com/fontanf/knapsacksolver/blob/master/knapsack.png" height="175"> <img src="https://github.com/fontanf/stablesolver/blob/master/stable.png" height="175"> <img src="https://github.com/fontanf/coloringsolver/blob/master/img/graphcoloring.png" height="175"> <img src="https://github.com/fontanf/travelingsalesmansolver/blob/main/img/travelingsalesman.png" height="175">
-</p>
 
 * Some research codes:
   * Star observation scheduling problems [fontanf/starobservationschedulingsolver](https://github.com/fontanf/starobservationschedulingsolver)
