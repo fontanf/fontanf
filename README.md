@@ -26,6 +26,7 @@ I develop and maintain:
 * Solvers for various fundamental optimization problems that often appear as subproblems of more complex optimization problems:
   * 0-1 knapsack problem [fontanf/knapsacksolver](https://github.com/fontanf/knapsacksolver)
   * Subset-sum problem [fontanf/subsetsumsolver](https://github.com/fontanf/subsetsumsolver)
+  * Multiple-choice knapsack problem [fontanf/multiplechoiceknapsacksolver](https://github.com/fontanf/multiplechoiceknapsacksolver)
   * Multiple-choice subset-sum problem [fontanf/multiplechoicesubsetsumsolver](https://github.com/fontanf/multiplechoicesubsetsumsolver)
   * Generalized assignment problem [fontanf/generalizedassignmentsolver](https://github.com/fontanf/generalizedassignmentsolver)
   * (Unicost) set covering problem [fontanf/setcoveringsolver](https://github.com/fontanf/setcoveringsolver)
