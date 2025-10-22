@@ -41,5 +41,3 @@ I develop and maintain:
   * Knapsack problem with conflicts [fontanf/knapsackwithconflictssolver](https://github.com/fontanf/knapsackwithconflictssolver)
 
 Finally, the repository [fontanf/teaching](https://github.com/fontanf/teaching) contains the material I use to teach.
-
-*Do not hesitate to let me know if you use some of my codes. I'm happy to know that they are useful. And I'll be more careful not to break everything in the next update. And do not hesitate to give me some feedback as well.*
