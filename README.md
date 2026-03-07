@@ -35,9 +35,11 @@ I develop and maintain:
   * Traveling salesman problem  [fontanf/travelingsalesmansolver](https://github.com/fontanf/travelingsalesmansolver)
 
 * Some research codes:
-  * Star observation scheduling problems [fontanf/starobservationschedulingsolver](https://github.com/fontanf/starobservationschedulingsolver)
-  * Travelling thief problems [fontanf/travellingthiefsolver](https://github.com/fontanf/travellingthiefsolver)
-  * Flow shop, job shop and open shop scheduling problems [fontanf/shopschedulingsolver](https://github.com/fontanf/shopschedulingsolver)
   * Knapsack problem with conflicts [fontanf/knapsackwithconflictssolver](https://github.com/fontanf/knapsackwithconflictssolver)
+  * Travelling thief problems [fontanf/travellingthiefsolver](https://github.com/fontanf/travellingthiefsolver)
+  * Single-machine and parallel-machines scheduling problems [fontanf/parallelschedulingsolver](https://github.com/fontanf/parallelschedulingsolver)
+  * Batch scheduling problems [fontanf/batchschedulingsolver](https://github.com/fontanf/batchschedulingsolver)
+  * Flow shop, job shop and open shop scheduling problems [fontanf/shopschedulingsolver](https://github.com/fontanf/shopschedulingsolver)
+  * Star observation scheduling problems [fontanf/starobservationschedulingsolver](https://github.com/fontanf/starobservationschedulingsolver)
 
 Finally, the repository [fontanf/teaching](https://github.com/fontanf/teaching) contains the material I use to teach.
