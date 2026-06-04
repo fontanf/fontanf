@@ -19,8 +19,7 @@ I develop and maintain:
 
 * Other libraries to simplify the implementation of optimizaztion algorithms:
   * Various data structures [fontanf/optimizationtools](https://github.com/fontanf/optimizationtools)
-  * Simplify solvers integration with CMake + a simple MILP modeler [fontanf/mathoptsolverscmake](https://github.com/fontanf/mathoptsolverscmake)
-  * A C++ interface for the nonlinear solver Artelys Knitro [fontanf/knitrocpp](https://github.com/fontanf/knitrocpp)
+  * Simplify solvers integration with CMake + a simple C++ LP/MILP/MINLP modeler [fontanf/mathoptsolverscmake](https://github.com/fontanf/mathoptsolverscmake)
   * A geometry library that supports line segments and circular arcs [fontanf/shape](https://github.com/fontanf/shape)
 
 * Solvers for various fundamental optimization problems that often appear as subproblems of more complex optimization problems:
